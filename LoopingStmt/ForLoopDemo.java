@@ -6,10 +6,6 @@ public class ForLoopDemo
 		{
 			System.out.println(i);
 		}
-		for(;;)
-		{
-			System.out.println("Good Morning..");
-		}
 		int a = 10;
 		for( ; a<=20 ; a++) 
 		{
